@@ -1,0 +1,8 @@
+name: AiPomocnik
+version: 1.0
+main: cz.tvojeserver.aipomocnik.AiPomocnik
+api-version: '1.20'
+commands:
+  aipomocnik:
+    description: Znovu nacte nastaveni AI pomocnika
+    usage: /aipomocnik reload
